@@ -1,5 +1,3 @@
-import { Themes } from '../components/Theming/Themes';
-
 export type MainStackRoute = {
   home: undefined;
   artistDetails: { artistDetailsUrl: string };

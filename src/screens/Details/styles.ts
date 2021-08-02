@@ -31,6 +31,6 @@ export default StyleSheet.create({
   valueStyle: {
     flex: 1,
     flexWrap: 'wrap',
-    textAlign: 'right'
+    textAlign: 'right',
   },
 });
